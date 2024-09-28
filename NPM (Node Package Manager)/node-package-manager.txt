@@ -1,0 +1,13 @@
+Deskripsi:
+Npm adalah pengelola package untuk Node.js. Npm diciptakan pada tahun 2009 sebagai proyek open source untuk membantu pengembang JavaScript berbagi module kode yang dikemas dengan mudah.
+
+## Cek apakah NPM sudah terpasang pada komputer kita:
+-> npm -v
+
+## Iisialisai NPM
+-> npm init
+
+## Donwload dan hapus package
+-> npm install : Download package
+-> npm install <nama package>@13.0.0 : Download packagr dengan spesifik version
+-> npm uninstall <nama package> : hapus package
