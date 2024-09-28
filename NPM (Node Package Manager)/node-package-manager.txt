@@ -1,11 +1,19 @@
 Deskripsi:
 Npm adalah pengelola package untuk Node.js. Npm diciptakan pada tahun 2009 sebagai proyek open source untuk membantu pengembang JavaScript berbagi module kode yang dikemas dengan mudah.
 
+## Kegunaan NPM
+-> Npm digunakna untuk melakukan dependency management yang kita butuhkan dalam project yang kita buat
+-> Npm digunakan untuk download, update, dan upgrade dependency secara otomatis tanpa harus dilakukan secara manual
+
 ## Cek apakah NPM sudah terpasang pada komputer kita:
 -> npm -v
 
 ## Iisialisai NPM
--> npm init
+-> npm init : menghasilkan file package.json
+
+## File package.json
+-> NPM menyimpan semua kopnfigurasi project di file bernama package.json
+-> File package,json ini berada di directory project kita
 
 ## Donwload dan hapus package
 -> npm install : Download package
